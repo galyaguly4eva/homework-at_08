@@ -15,10 +15,10 @@ def transform_to_mosaic(image, gradation_step, size):
     return image
 
 
-file_name = input("Введите имя файла, который надо преобразовать ")
-res_name = input("Введите имя файла, куда надо сохранить измененную картинку ")
-width_pixels = int(input("Введите размер мозаики "))
-step = int(input("Введите количество градаций "))
+file_name = input("Введите имя файла, который надо преобразовать :")
+res_name = input("Введите имя файла, куда надо сохранить измененную картинку :")
+width_pixels = int(input("Введите размер мозаики :"))
+step = int(input("Введите количество градаций :"))
 
 img = Image.open(file_name)
 arr = np.array(img)
