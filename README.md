@@ -12,12 +12,12 @@
 
 ## результаты обработки программы
 
-#filter.py
+# filter.py
 ![res](https://user-images.githubusercontent.com/72623023/142914846-63d48774-ba3a-4113-8d16-0456e6929c64.jpg)
 
-#old_filter.py
+# old_filter.py
 ![res_new_new](https://user-images.githubusercontent.com/72623023/142914914-139e423f-7cac-4f9f-934a-fa677c51286a.jpg)
 
-#filter_with_filename.py
+# filter_with_filename.py
 ![res_new](https://user-images.githubusercontent.com/72623023/142915007-bf053dd0-d0e3-4360-b245-612bd9ba5a33.jpg)
 
