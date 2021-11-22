@@ -9,3 +9,15 @@
 
 # 3.filter_with_filename.py
 ![2021-11-22_23-06-35](https://user-images.githubusercontent.com/72623023/142912803-36434ce3-29d7-4b0a-b705-7e0c52ec8d0d.png)
+
+## результаты обработки программы
+
+#filter.py
+![res](https://user-images.githubusercontent.com/72623023/142914846-63d48774-ba3a-4113-8d16-0456e6929c64.jpg)
+
+#old_filter.py
+![res_new_new](https://user-images.githubusercontent.com/72623023/142914914-139e423f-7cac-4f9f-934a-fa677c51286a.jpg)
+
+#filter_with_filename.py
+![res_new](https://user-images.githubusercontent.com/72623023/142915007-bf053dd0-d0e3-4360-b245-612bd9ba5a33.jpg)
+
