@@ -4,7 +4,8 @@
 функции из numpy значительно более оптимизированы по сравнению с реализацией через циклы, поэтому программа долго работает
 
 # 2.filter.py  
-![2021-11-22_21-40-18](https://user-images.githubusercontent.com/72623023/142912712-e4d50848-d736-478b-8fa5-7fa1d06fd27a.png)
+![2021-11-23_19-35-10](https://user-images.githubusercontent.com/72623023/143043895-bc5de719-7599-49a5-8683-7c3e965d2c4c.png)
+
 
 
 # 3.filter_with_filename.py
